@@ -32,7 +32,7 @@ This project performs Exploratory Data Analysis (EDA) on a dataset containing Am
 
 - Cleaned and exploded multi-valued fields for accurate analysis.
 
-**📊 Data Visualization & Key Findings**
+**📊 Data Visualization & Key Insights**
 
 **🎯 1. IMDb Score Distribution**
 
